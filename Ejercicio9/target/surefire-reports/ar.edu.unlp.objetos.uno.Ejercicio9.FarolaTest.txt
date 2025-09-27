@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ar.edu.unlp.objetos.uno.Ejercicio9.FarolaTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.315 s <<< FAILURE! - in ar.edu.unlp.objetos.uno.Ejercicio9.FarolaTest
+testTurnOnAndOff  Time elapsed: 0.275 s  <<< ERROR!
+java.lang.StackOverflowError
+
